@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to my Github!
-- 👨‍🎓 I'm an undergraduate student in **SJTU-CSE-MISL** @MISL-SJTU
-- 📓 I'm currently learning [**angr**](https://github.com/angr/angr) and getting start with **CTF-Pwn**
-- 👨‍🔬 I'm currently doing research about [**Iot** Firmware Vulnerability Detection](https://github.com/cascades-sjtu/FirmVulHub)
+- 👨‍🎓 I'm an undergraduate student in [SJTU-CSE-MISL](https://github.com/MISL-SJTU)
+- 📓 I'm currently learning [angr](https://github.com/angr/angr) and getting start with CTF
+- 👨‍🔬 I'm currently doing research about [Iot Firmware Vulnerability Detection](https://github.com/cascades-sjtu/FirmVulHub)
 - 📧 How to reach me: cascades@sjtu.edu.cn/ cascadeschen@gmail.com
 
-Interseted? visit my homepage for more info: https://cascades-sjtu.github.io/
+Interseted? visit my [homepage](https://cascades-sjtu.github.io/) for more info
