@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my Github!
+- 👨‍🎓 I'm an undergraduate student in **SJTU-CSE**
+- 📓 I'm currently learning [**angr**](https://github.com/angr/angr) and getting start with **CTF-Pwn**
+- 👨‍🔬 I'm currently doing research about **Iot** Firmware Vulnerability Detection
+- 📧 How to reach me: cascades@sjtu.edu.cn/ cascadeschen@gmail.com
+
+Interseted? visit my homepage for more info: https://cascades-sjtu.github.io/
