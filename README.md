@@ -20,4 +20,6 @@ Welcome to my Github!
 - 👨‍🔬 I'm currently doing research about [Iot Firmware Vulnerability Detection](https://github.com/cascades-sjtu/FirmVulHub)
 - 📧 How to reach me: cascades@sjtu.edu.cn/ cascadeschen@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cascades-sjtu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 Interseted? visit my [homepage](https://cascades-sjtu.github.io/) for more info
