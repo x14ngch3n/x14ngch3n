@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 -->
 Welcome to my Github!
 - 👨‍🎓 I'm an undergraduate student in [SJTU-CSE-MISL](https://github.com/MISL-SJTU)
-- 📓 I'm currently learning [angr](https://github.com/angr/angr) and getting start with CTF
-- 👨‍🔬 I'm currently doing research about [Iot Firmware Vulnerability Detection](https://github.com/cascades-sjtu/FirmVulHub)
+- 📓 I'm currently learning [angr](https://github.com/angr/angr) and getting start with CTF-Pwn
+- 👨‍🔬 I'm currently doing my bachelor thesis [Iot Firmware Vulnerability Detection](https://github.com/cascades-sjtu/FirmVulHub)
+- ✍️ I'm the maintainer of [SJTUBeamer](https://github.com/sjtug/SJTUBeamer) and member in [sjtug](https://github.com/sjtug)
 - 📧 How to reach me: cascades@sjtu.edu.cn/ cascadeschen@gmail.com
 - Interseted? visit my [HOMEPAGE-EN](https://cascades-sjtu.github.io/) and [HOMEPAGE-CN](https://cascadeschen.cn) for more info
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cascades-sjtu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
