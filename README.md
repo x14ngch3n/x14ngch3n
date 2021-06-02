@@ -18,6 +18,7 @@ Welcome to my Github!
 - 👨‍🎓 I'm an undergraduate student in [SJTU-CSE-MISL](https://github.com/MISL-SJTU)
 - 📓 I'm currently learning [angr](https://github.com/angr/angr) and getting start with CTF-Pwn
 - 👨‍🔬 I'm currently doing my bachelor thesis [Iot Firmware Vulnerability Detection](https://github.com/cascades-sjtu/FirmVulHub)
+- 💻 I'm interested in Android, HarmonyOS and RTOS developing
 - ✍️ I'm a member of [SJTUG](https://github.com/sjtug) and the maintainer of [SJTUBeamer](https://github.com/sjtug/SJTUBeamer)
 - 📧 How to reach me: cascades@sjtu.edu.cn/ cascadeschen@gmail.com
 - Interseted? visit my [HOMEPAGE-EN](https://cascades-sjtu.github.io/) and [HOMEPAGE-CN](https://cascadeschen.cn) for more info
