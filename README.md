@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 Welcome to my Github!
 - 👨‍🎓 I'm an undergraduate student in [SJTU-CSE-MISL](https://github.com/MISL-SJTU)
-- 📓 I'm currently getting start with CTF-Re
-- 💻 I'm interested in Android, [HarmonyOS](https://github.com/cascades-sjtu/HarmonyOSCamp) development
+- 📓 I'm currently learning binary security and program analysis
 - ✍️ I'm a member of [SJTUG](https://github.com/sjtug) and the maintainer of [SJTUBeamer](https://github.com/sjtug/SJTUBeamer)
 - 📧 How to reach me: cascades@sjtu.edu.cn/ cascadeschen@gmail.com
 - Interseted? visit my [HOMEPAGE-EN](https://cascades-sjtu.github.io/) and [HOMEPAGE-CN](https://cascadeschen.cn) for more info
