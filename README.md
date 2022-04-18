@@ -19,7 +19,7 @@ Welcome to my Github!
 - 📓 I'm currently learning binary security and program analysis in CTF team [Ph0t1n1a](https://ctftime.org/team/55197/)
 - ✍️ I'm a member of [SJTUG](https://github.com/sjtug) and the maintainer of [SJTUBeamer](https://github.com/sjtug/SJTUBeamer)
 - ⭐ I like hanging out on Github, becoming stargazers of interesting repos in Programming Languages and Computer System
-- 📧 How to reach me: cascades@sjtu.edu.cn/ cascadeschen@gmail.com
+- 📧 How to reach me: cascades@sjtu.edu.cn
 
 Interseted? Visit my [HOMEPAGE](https://cascades-sjtu.github.io/) for more info
 
