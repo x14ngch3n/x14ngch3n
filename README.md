@@ -21,7 +21,7 @@ Welcome to my Github!
 - ⭐ I like hanging out on Github, becoming stargazers of interesting repos in Software Engineering and Computer System
 - 📧 How to reach me: cascades@sjtu.edu.cn
 
-Interested? Visit my [HOMEPAGE](https://cascades-sjtu.github.io/) and [RESUME](https://rxresu.me/cascades/resume-en) for more info
+Interested? Visit my [Homepage](https://cascades-sjtu.github.io/) and [Resume](https://rxresu.me/cascades/resume-en) for more info.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cascades-sjtu&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
