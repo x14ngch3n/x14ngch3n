@@ -23,7 +23,4 @@ Welcome to my Github!
 
 Interested? Visit my [Homepage](https://cascades-sjtu.github.io/) and [Resume](https://rxresu.me/cascades/resume-en) for more info.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cascades-sjtu&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cascades-sjtu&show_icons=true&theme=radical)
