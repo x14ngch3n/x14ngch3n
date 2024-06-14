@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to my Github!
-<!-- - 👨‍🎓 I'm an undergraduate student in [SJTU-CSE-MISL](https://github.com/MISL-SJTU) -->
-- 📓 I'm currently learning binary security and program analysis in CTF team [Ph0t1n1a](https://ctftime.org/team/55197/)
-- ✍️ I'm a member of [SJTUG](https://github.com/sjtug) and the former maintainer of [SJTUBeamer](https://github.com/sjtug/SJTUBeamer)
+- 👨‍🎓 I'm expected to be a PhD student in HKUST's [Prism Lab](https://cse.hkust.edu.hk/~charlesz/), focusing on binary program analysis
+- 📓 I sometimes play CTF for [Ph0t1n1a](https://ctftime.org/team/55197/)
+- ✍️ I'm the former maintainer of [SJTUBeamer](https://github.com/sjtug/SJTUBeamer)
 - ⭐ I like hanging out on Github, becoming stargazers of interesting repos in Software Security and Computer System
-- 📧 How to reach me: cascades@sjtu.edu.cn
+- 📧 How to reach me: x14ngch3n@gmail.com
 
 Interested? Visit my [Homepage](https://xiangchen.xyz) and [CV](https://x14ngch3n.github.io/assets/pdfs/CV.pdf) for more info.
 
