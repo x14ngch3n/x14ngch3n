@@ -20,6 +20,6 @@ Welcome to my Github!
 - ⭐ I like hanging out on Github, becoming stargazers of interesting repos in Software Security and Computer System
 - 📧 How to reach me: x14ngch3n@gmail.com
 
-Interested? Visit my [Homepage](https://xiangchen.xyz) and [CV](https://x14ngch3n.github.io/assets/pdfs/CV.pdf) for more info.
+Interested? Visit my [Homepage](https://x14ngch3n.github.io) and [CV](https://x14ngch3n.github.io/assets/pdfs/CV.pdf) for more info.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cascades-sjtu&show_icons=true&theme=radical) -->
