@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to my Github!
-- 👨‍🎓 I'm expected to be a PhD student in HKUST's [Prism Lab](https://cse.hkust.edu.hk/~charlesz/), focusing on binary program analysis
+- 👨‍🎓 I'm a first-year Ph.D. student in HKUST's [Prism Lab](https://cse.hkust.edu.hk/~charlesz/), focusing on binary program analysis
 - 🪄 In SJTU, I sometimes play CTF for [Ph0t1n1a](https://ctftime.org/team/55197/) and I'm the former maintainer of [SJTUBeamer](https://github.com/sjtug/SJTUBeamer)
 - ⭐ I like hanging out on Github, becoming stargazers of interesting repos in Software Security and Computer System
 - 📧 How to reach me: x14ngch3n@gmail.com
